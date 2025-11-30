@@ -1,4 +1,4 @@
-package LA5Q;
+package AirplaneImplementation;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -10,7 +10,7 @@ import java.util.Random;
  *
  * @author Anish Jami
  */
-public class Lab5Main {
+public class Main {
     // Random names for generating random passenger names to use for testing
     private static final String[] FIRST_NAMES = {
             "Anish", "Quazi", "Saad", "Emily", "David", "Amulya", "Joanna", "Kavya",
