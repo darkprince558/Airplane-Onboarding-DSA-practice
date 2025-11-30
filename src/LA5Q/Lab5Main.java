@@ -8,9 +8,7 @@ import java.util.Random;
  * Main class for the Airplane Boarding and Disembarking application.
  * Class handles the main user menu and user input.
  *
- * @author Anish Jami, 251419182
- * For Quazi Rahman, AISE2205
- * Sunday, November 16, 2025
+ * @author Anish Jami
  */
 public class Lab5Main {
     // Random names for generating random passenger names to use for testing

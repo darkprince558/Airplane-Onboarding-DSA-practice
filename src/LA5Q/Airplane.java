@@ -5,9 +5,6 @@ import java.util.*;
 /**
  * The Airplane class is the core and holds the main logic of the simulation.
  * It manages the seating layout and all the logic for boarding and disembarking passengers using linear data structures.
-
- * - By Anish Jami, 251419182
- * - For Quazi Rahman, AISE2205
  */
 public class Airplane {
 
